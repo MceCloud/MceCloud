@@ -4,5 +4,5 @@
 ---
 
 - [主网址](https://mcecloud.net)
-- [备用网址1](https://mcecloid.com)
+- [备用网址1](https://mcecloud.com)
 - [备用网址2](https://hk.mcecloud.net)
