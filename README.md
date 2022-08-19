@@ -7,4 +7,4 @@
 - [备用网址1](https://mcecloud.com)
 - [备用网址2](https://hk.mcecloud.net)
 - [备用网址3](https://us.mcecloud.net)
-- [备用网址3](https://kr.mcecloud.net)
+- [备用网址4](https://kr.mcecloud.net)
