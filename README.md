@@ -8,3 +8,12 @@
 - [备用网址2](https://hk.mcecloud.net)
 - [备用网址3](https://us.mcecloud.net)
 - [备用网址4](https://kr.mcecloud.net)
+
+
+### 客户端下载
+
+[Android下载地址](https://wwp.lanzouo.com/mce-android)
+
+[Windows下载地址](https://wwp.lanzouo.com/mce-win)
+
+[Mac下载地址](https://wwp.lanzouo.com/mce-mac)
