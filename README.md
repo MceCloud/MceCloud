@@ -6,9 +6,7 @@
 - [主网址](https://mcecloud.net)
 - [备用网址1](https://cdn.mcecloud.net)
 - [备用网址2](https://mcecloud.com)
-- [备用网址3](https://hk.mcecloud.net)
-- [备用网址4](https://us.mcecloud.net)
-- [备用网址5](https://kr.mcecloud.net)
+- [备用网址3](https://mce.aaapi.cyou)
 
 
 ### 客户端下载
