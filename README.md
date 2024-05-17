@@ -4,8 +4,8 @@
 ---
 
 - [主网址](https://mcecloud.net)
-- [备用网址1](https://cf.mcecloud.xyz)
-- [备用网址2](https://mcecloud.com)
+- [备用网址1](https://cf2.mcecloud.xyz)
+- [备用网址2](https://cf.mcecloud.xyz)
 - [备用网址3](https://mce.aaapi.cyou)
 
 
