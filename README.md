@@ -4,9 +4,9 @@
 ---
 
 - [主网址](https://mcecloud.net)
-- [备用网址1](https://cf2.mcecloud.xyz)
-- [备用网址2](https://cf.mcecloud.xyz)
-- [备用网址3](https://mce.aaapi.cyou)
+- [备用网址1](https://cf2.mcecloud.net)
+- [备用网址2](https://cf.mcecloud.net)
+
 
 
 ### 客户端下载
