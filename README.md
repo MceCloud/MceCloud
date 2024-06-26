@@ -4,7 +4,7 @@
 ---
 
 - [主网址](https://mcecloud.net)
-- [备用网址1](https://cf2.mcecloud.net)
+- [备用网址1](https://cf3.mcecloud.net)
 - [备用网址2](https://cf1.mcecloud.net)
 
 
