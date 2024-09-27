@@ -11,8 +11,8 @@
 
 ### 客户端下载
 
-[Android下载地址](https://wwp.lanzouo.com/mce-android)
+[Android下载地址](https://app.goooyun.top:10099/mce/mce.apk)
 
-[Windows下载地址](https://wwp.lanzouo.com/mce-win)
+[Windows下载地址](https://app.goooyun.top:10099/mce/mce.exe)
 
-[Mac下载地址](https://wwp.lanzouo.com/mce-mac)
+[Mac下载地址](https://app.goooyun.top:10099/mce/mce.dmg)
